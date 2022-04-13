@@ -4,7 +4,7 @@ Projects developed under the Artificial Intelligence college chair during the 20
 This repository is organized into 3 different sections:
 <ul>
   <li> T1 - First Project: Single-Player Game AI </li>
-  <li> T2 - Second Project: Multiplayer-Game AI </li>
+  <li> T2 - Second Project: Multiplayer Game AI </li>
   <li> T3 - Third Project: Grammar and Flight Planner AI </li>
 </ul>
   
